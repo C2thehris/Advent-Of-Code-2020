@@ -1,0 +1,6 @@
+shiny gold bags contain 3 wavy gold bags, 2 plaid chartreuse bags, 2 shiny lime bags, 5 dull indigo bags.
+wavy gold bags contain 3 plaid chartreuse bags, 5 shiny lime bags, 2 dull indigo bags.
+shiny lime bags contain 5 super purple bags.
+super purple bags contain no other bags.
+
+3 + 2 + 2 + 5 + 3*(3+5+2 + 5*5) + 2*5
